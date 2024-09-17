@@ -22,10 +22,39 @@
   
   ![image](https://github.com/user-attachments/assets/d3d2a3e3-9daa-443e-8b46-8cb251300a61)
   
-  - <a href="https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=93-347&t=hiaY24zQLHTX31b6-1" target="_blank">Panto - Gesto de Toque - Deslizar</a>
- Click no Link para interagir com o protótipo
+ - [Panto - Gesto de Toque - Deslizar](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=93-347&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
   
   ![image](https://github.com/user-attachments/assets/e3c9b8f4-5a9a-4dcc-82ff-1dc78a1b0165)
+
+  - [YouTube - Gesto de Toque - Pressionar](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=141-2&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
+  
+  ![image](https://github.com/user-attachments/assets/19337121-5111-4675-8046-05650eb44b3b)
+
+  - [Music Player - Controle - Deslizantes](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=142-4&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
+  
+  ![image](https://github.com/user-attachments/assets/3510a16e-727f-4f0a-9e91-651b7c80c549)
+
+  - [Panini - Controle - Alternadores](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=142-5&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
+  
+  ![image](https://github.com/user-attachments/assets/984584e2-666c-4e6d-81d6-f738a50981a7)
+
+  - [Bitcoin Tracker - Controle - Interruptores](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=142-6&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
+  
+  ![image](https://github.com/user-attachments/assets/1c7869ed-982b-403b-a484-8439a77612c2)
+
+  - [Material Design - Expansão de Conteúdo](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=141-3&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
+  
+  ![image](https://github.com/user-attachments/assets/38c0ce32-8a0a-40e3-8876-f758610f8ac9)
+
+  - [Nubank - Atualização de Página](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=142-7&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
+  
+  ![image](https://github.com/user-attachments/assets/b1d8d36a-e4c3-4ed5-8c08-5e121848ce94)
+
+
+
+
+
+
 
 
 
