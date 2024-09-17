@@ -21,6 +21,12 @@
  - [Google Maps - Gesto de Toque - Arrastar](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=64-149&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
   
   ![image](https://github.com/user-attachments/assets/d3d2a3e3-9daa-443e-8b46-8cb251300a61)
+  
+  - <a href="https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=93-347&t=hiaY24zQLHTX31b6-1" target="_blank">Panto - Gesto de Toque - Deslizar</a>
+ Click no Link para interagir com o protótipo
+  
+  ![image](https://github.com/user-attachments/assets/e3c9b8f4-5a9a-4dcc-82ff-1dc78a1b0165)
+
 
 
 
