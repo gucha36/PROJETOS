@@ -6,6 +6,18 @@
 
 
 ### **Projetos Figma**
+
+Este repositório contém os protótipos de interface de usuário (UI) e experiência do usuário (UX) que desenvolvi durante o curso de Figma oferecido pela DIO. Esses protótipos fazem parte do meu aprendizado, focando na criação de interfaces intuitivas e funcionais, além de proporcionar uma experiência visual refinada.
+
+Os protótipos incluem:
+
+1.  Wireframes: Estrutura básica de layout e navegação.
+2. Design de alta fidelidade: Versão final com elementos visuais e interações completas.
+3. Testes de usabilidade: Ajustes com base em feedback e análise de fluxo.
+Esses projetos me ajudaram a aplicar na prática os conceitos de UI/UX aprendidos no curso.
+
+_**Dica esperta: Se for clicar nos links, abra em outra aba para não perder essa página e continuar explorando meu perfil! 😉👍**_
+
  - [Uber - Tela de Carregamento](https://www.figma.com/proto/xGm8qdiGQz0BCn36NcqAmG/Anima%C3%A7%C3%B5es-(Completo)?node-id=0-1&t=hiaY24zQLHTX31b6-1) Click no Link para interagir com o protótipo
   
   ![image](https://github.com/user-attachments/assets/6fc2b54a-9d9c-4fde-81dd-b7d609c84341)
